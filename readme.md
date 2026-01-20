@@ -6,3 +6,4 @@ Commit listesi:
 a
 b
 c
+d
